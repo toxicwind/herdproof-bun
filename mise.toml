@@ -1,4 +1,0 @@
-[tasks]
-run = "bin/run"
-check = "bin/check"
-build = "bun build packages/core-server/src/server/factory.ts --target=bun"
